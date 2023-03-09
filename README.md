@@ -1,7 +1,7 @@
 ### Hi there 👋
 🔭 I’m currently working on Git Hub and Linux administration. <br>
 🌱 I’m currently learning PHP! <br>
-📫 How to reach me: rosaliefantastic@gmail.com
+📫 How to reach me: rosaliefantastic@gmail.com <br>
 ⚡️💥 ⚡️💥⚡️ 💥⚡️ 💥⚡️💥 ⚡️ 💥⚡️💥 ⚡️ 💥⚡️💥 ⚡️💥 ⚡️💥 ⚡️ 💥⚡️ 
 
 <!--
