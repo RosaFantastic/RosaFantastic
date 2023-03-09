@@ -1,5 +1,5 @@
 ### Hi there 👋
-🔭 I’m currently working on Git Hub and Linux administration.
+🔭 I’m currently working on Git Hub and Linux administration. <br>
 🌱 I’m currently learning PHP!
 📫 How to reach me: rosaliefantastic@gmail.com
 
